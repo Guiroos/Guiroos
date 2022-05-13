@@ -24,18 +24,18 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<div align="cente" href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guiroos&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guiroos&theme=buefy&layout=compact" />
-</a>
+</div>
 
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/guilhermeroos/"><img src="https://img.shields.io/badge/-Guilherme%20Roos%20Ribeiro-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:guilherme.roosr@gmail.com"><img src="https://img.shields.io/badge/-guilherme.roosr@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/guilhermeroos/"><img src="https://img.shields.io/badge/-Guilherme%20Roos%20Ribeiro-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:guilherme.roosr@gmail.com"><img src="https://img.shields.io/badge/-guilherme.roosr@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</div>
 
 ⭐️ From [AVS1508](https://github.com/AVS1508)
