@@ -29,7 +29,7 @@
 
 <br/>
 
-<div align="cente" href="https://github.com/guiroos">
+<div align="center" href="https://github.com/guiroos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guiroos&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guiroos&theme=buefy&layout=compact" />
 </div>
