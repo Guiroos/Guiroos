@@ -1,9 +1,23 @@
-<h2> Hello guys, I'm Guilherme.</h2>
+<div id="badges" align="right">
+  <img align="right" src="https://komarev.com/ghpvc/?username=guiroos&style=plastic&color=blueviolet"/>
+</div>
+
+<div id="header" align="center">
+  <h2> hello guys, I'm Guilherme </h2>
+  <img src="https://64.media.tumblr.com/e0b726934821432b7450deaee576e915/tumblr_mlrxrvQRio1r3apovo1_500.gifv" width="400"/>
+</div>
+
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies.
-- 🎓 &nbsp; Studying Web Development at [Trybe](https://betrybe.com).
+I'm a Mechanical Engineer going through a career transition process with studies in Full Stack Web Development at [Trybe](https://betrybe.com).
+
+- 🇧🇷 &nbsp; Live in Brazil;
+- 🖥️ &nbsp; Looking for new opportunities to improve and master some programming languages;
+- 🤔 &nbsp; Exploring new technologies, like python, JS libs (Vue, Angular, Vite) and designing databases;
+- 🎮 &nbsp; Like to play games, listen to music e spend time with family in my free time.
+
+---
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -27,18 +41,21 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-<br/>
+---
+
+<h3> 🔥 &nbsp;My stats </h3>
 
 <div align="center" href="https://github.com/guiroos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guiroos&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guiroos&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guiroos&show_icons=true&theme=nightowl" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=guiroos&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiroos&layout=compact&theme=nightowl" />
 </div>
 
-<br/>
+---
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/guilhermeroos/"><img src="https://img.shields.io/badge/-Guilherme%20Roos%20Ribeiro-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:guilherme.roosr@gmail.com"><img src="https://img.shields.io/badge/-guilherme.roosr@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/guilhermeroos/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:guilherme.roosr@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
