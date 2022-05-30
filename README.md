@@ -58,4 +58,6 @@ I'm a Mechanical Engineer going through a career transition process with studies
 <div align="center">
   <a href="https://www.linkedin.com/in/guilhermeroos/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:guilherme.roosr@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://guiroos-portfolio.netlify.app/"><img src="https://img.shields.io/badge/portfolio-purple?style=for-the-badge"/></a>  
+  
 </div>
